@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px;
+    font-size: 16px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  #gifImage {
+    max-width: 100%;
+  }
+  .letters{
+    font-size: 6vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: bold;
+  }
+  
+  .replies{
+    font-size: 6vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: bold;
+  }
+  * body{
+    background: linear-gradient(45deg, #ffcc00, #ff6699, #3366ff);
+    height: 100vh;
+  }
+  
+  /* Add more styling based on your preferences */
+  
